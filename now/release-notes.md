@@ -3,8 +3,8 @@
 ### some other document
 
 
-<!-- start changelog 5.80 -->
-## 5.80
+<!-- start changelog 5.90 -->
+## 5.90
 
 ### New Features
 
@@ -28,5 +28,5 @@ The following bug fixes were included as part of the ${entry.version} release:${
 
 ---
 
-<!-- end changelog 5.80 -->
+<!-- end changelog 5.90 -->
 
