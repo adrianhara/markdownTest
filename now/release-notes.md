@@ -4,8 +4,8 @@
 
 
 
-<!-- start changelog 5.80 -->
-## 5.80
+<!-- start changelog 5.70.2 -->
+## 5.70.2
 
 ### New Features
 
@@ -40,7 +40,7 @@ The following bug fixes were included as part of the ${entry.version} release:
 
 ---
 
-<!-- end changelog 5.80 -->
+<!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
 ## 5.70
