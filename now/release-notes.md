@@ -11,7 +11,6 @@
 The following are included as part of the 5.90 release:
 
 | Reference | Feature Description |
-|-----------|---------------------|
 <!-- end changelog 5.90 -->
 <!-- start changelog 5.80 -->
 ## 5.80
@@ -70,12 +69,10 @@ The following are included as part of the 5.80 release:
 ### Defect Corrections
 
 The following bug fixes were included as part of the ${entry.version} release:
-
 <!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
 ## 5.70
 
 ### New Features
-
 <!-- end changelog 5.70 -->
