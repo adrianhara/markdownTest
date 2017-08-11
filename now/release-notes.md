@@ -13,7 +13,6 @@ The following are included as part of the 5.90 release:
 | Reference | Feature Description |
 |-----------|---------------------|
 | CPB-17054 | [Windows] Delivery Date should be empty after duplicating the Sales Order |
-
 <!-- end changelog 5.90 -->
 <!-- start changelog 5.80 -->
 ## 5.80
@@ -74,7 +73,6 @@ The following are included as part of the 5.80 release:
 The following bug fixes were included as part of the ${entry.version} release:
 
 | Reference | Description |
-|-----------|-------------|
 <!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
@@ -83,5 +81,4 @@ The following bug fixes were included as part of the ${entry.version} release:
 ### New Features
 
 The following are included as part of the 5.80 release:
-
 <!-- end changelog 5.70 -->
