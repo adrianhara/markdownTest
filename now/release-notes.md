@@ -24,7 +24,6 @@ The following bug fixes were included as part of the ${entry.version} release:
 |-----------|-------------|
 | CPB-16780 | [Windows] Scroll bar missing with certain settings |
 | CPB-14433 | [Windows] Error when selecting the company after login |
-
 <!-- end changelog 5.90 -->
 <!-- start changelog 5.80 -->
 ## 5.80
@@ -96,7 +95,6 @@ The following bug fixes were included as part of the ${entry.version} release:
 | CPB-16878 | [Configuration, Windows] Creating a custom Time Effort customization breaks the details page |
 | CPB-16856 | Windows - Time Effort Conflict Resolver losing essential data |
 | CPB-16780 | [Windows] Scroll bar missing with certain settings |
-| CPB-14433 | [Windows] Error when selecting the company after login |
 <!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
@@ -116,5 +114,4 @@ The following are included as part of the 5.80 release:
 
 The following bug fixes were included as part of the ${entry.version} release:
 
-| Reference | Description |
 <!-- end changelog 5.70 -->
