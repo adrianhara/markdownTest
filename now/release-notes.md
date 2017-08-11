@@ -21,7 +21,6 @@ The following are included as part of the 5.90 release:
 The following bug fixes were included as part of the ${entry.version} release:
 
 | Reference | Description |
-|-----------|-------------|
 <!-- end changelog 5.90 -->
 <!-- start changelog 5.80 -->
 ## 5.80
@@ -90,7 +89,6 @@ The following bug fixes were included as part of the ${entry.version} release:
 | CPB-16977 | [WinClient] Generating service report via the checkout function creates incorrect pdf |
 | CPB-16959 | [Windows Client]Could not export PDF from mobile Field Service |
 | CPB-16942 | [WinClient] List of equipments incorrectly returns in Checklist with 'select only once' configured |
-| CPB-16878 | [Configuration, Windows] Creating a custom Time Effort customization breaks the details page |
 <!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
@@ -107,5 +105,4 @@ The following are included as part of the 5.80 release:
 ---
 
 ### Defect Corrections
-
 <!-- end changelog 5.70 -->
