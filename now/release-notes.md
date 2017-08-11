@@ -19,7 +19,6 @@ The following are included as part of the 5.90 release:
 ### Defect Corrections
 
 The following bug fixes were included as part of the ${entry.version} release:
-
 <!-- end changelog 5.90 -->
 <!-- start changelog 5.80 -->
 ## 5.80
@@ -86,7 +85,6 @@ The following bug fixes were included as part of the ${entry.version} release:
 | CPB-17145 | For Business Partners that only have closed opportunities, no opportunities are shown |
 | CPB-17044 | [Windows] Empty vendor tab generating error |
 | CPB-16977 | [WinClient] Generating service report via the checkout function creates incorrect pdf |
-| CPB-16959 | [Windows Client]Could not export PDF from mobile Field Service |
 <!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
@@ -101,5 +99,4 @@ The following are included as part of the 5.80 release:
 | CPB-17054 | [Windows] Delivery Date should be empty after duplicating the Sales Order |
 
 ---
-
 <!-- end changelog 5.70 -->
