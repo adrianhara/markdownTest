@@ -17,7 +17,7 @@ The following are included as part of the 5.80 release:
 
 ### Defect Corrections
 
-The following bug fixes were included as part of the ${entry.version} release:
+The following bug fixes were included as part of the 5.80 release:
 
 | Reference | Description |
 |-----------|-------------|
