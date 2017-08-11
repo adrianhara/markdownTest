@@ -14,7 +14,6 @@ The following are included as part of the 5.90 release:
 |-----------|---------------------|
 | CPB-17054 | [Windows] Delivery Date should be empty after duplicating the Sales Order |
 
----
 <!-- end changelog 5.90 -->
 <!-- start changelog 5.80 -->
 ## 5.80
@@ -76,7 +75,6 @@ The following bug fixes were included as part of the ${entry.version} release:
 
 | Reference | Description |
 |-----------|-------------|
-| CPB-17231 | Windows client - Checklists: Attachment added in the footer of a table is not displayed |
 <!-- end changelog 5.70.2 -->
 
 <!-- start changelog 5.70 -->
@@ -86,5 +84,4 @@ The following bug fixes were included as part of the ${entry.version} release:
 
 The following are included as part of the 5.80 release:
 
-| Reference | Feature Description |
 <!-- end changelog 5.70 -->
